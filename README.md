@@ -22,5 +22,4 @@ This report provides a detailed equity research analysis of General Motors (GM),
 ---
 
 ## References
-- [LinkedIn Post](https://www.linkedin.com/posts/yashbabani07_general-motors-equity-research-report-activity-7324150118385930240-iosp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOQBBIBD0R)  
 - [Author LinkedIn Profile](https://www.linkedin.com/in/yashbabani07/)  
