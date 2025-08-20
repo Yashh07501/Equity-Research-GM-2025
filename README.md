@@ -2,22 +2,46 @@
 
 **Author:** Yash Babani  
 **Program/Institute:** Imarticus Learning, Jaipur  
-**Scope:** Company Overview, Industry Trends, Historical & Forecasted Financials, Valuation (DCF & Multiples), Risks & Catalysts  
 **Status:** Initiating Coverage | **Rating:** Buy | **Target Price:** $61 | **Horizon:** 12 Months  
 
 ---
 
 ## Overview
-This report provides a detailed equity research analysis of General Motors (GM), including its business model, market positioning, industry trends, and financial performance. The research also includes valuation models, key investment risks, and potential catalysts.  
+This report provides a comprehensive equity research analysis of General Motors (GM), covering its business model, market positioning, industry trends, financial performance, and strategic initiatives. The research also includes valuation models, key investment risks, and potential growth catalysts.
 
 ---
 
-## Key Highlights
-- **Company Analysis:** Overview of GM’s operations, revenue segments, and strategic initiatives.  
-- **Industry Trends:** Insights into the automotive industry, EV adoption, and competitive landscape.  
-- **Financials:** Historical performance, forecasted revenue and profit growth, and key ratios.  
-- **Valuation:** Discounted Cash Flow (DCF) and comparable multiples analysis.  
-- **Risks & Catalysts:** Identification of potential risks and growth drivers affecting GM’s stock performance.  
+## Key Metrics (FY2024)
+- **Revenue:** $187.44 Billion
+- **Net Income:** $9.37 Billion  
+- **EBITDA Margin:** ~14.1%  
+- **EPS Diluted:** $10.60
+- **Market Cap:** $43.33 Billion
+- 
+---
+
+## Valuation Summary
+- **Discounted Cash Flow (DCF) Analysis:** Target Price $61  
+- **Comparable Multiples Analysis:** Peer comparison indicates GM is undervalued  
+
+---
+
+## Risks & Catalysts
+**Risks:**  
+- Supply chain disruptions  
+- EV market competition  
+- Regulatory changes affecting auto industry  
+
+**Catalysts:**  
+- EV adoption acceleration  
+- Strategic partnerships and new model launches  
+- Cost optimization initiatives  
+
+---
+
+## Report Files
+- [Download Full PDF Report](./GM_Equity_Research_2025.pdf)  
+- [Financial Model Excel](./General%20Motor%20equity%20report.xlsx)  
 
 ---
 
