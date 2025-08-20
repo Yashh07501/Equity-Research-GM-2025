@@ -39,11 +39,5 @@ This report provides a comprehensive equity research analysis of General Motors 
 
 ---
 
-## Report Files
-- [Download Full PDF Report](./GM_Equity_Research_2025.pdf)  
-- [Financial Model Excel](./General%20Motor%20equity%20report.xlsx)  
-
----
-
 ## References
 - [Author LinkedIn Profile](https://www.linkedin.com/in/yashbabani07/)  
